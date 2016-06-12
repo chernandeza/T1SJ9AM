@@ -27,7 +27,6 @@ namespace InfoPersonas
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             perJ.DesplegarDatos();
-            
             Console.ReadLine();
         }
     }
