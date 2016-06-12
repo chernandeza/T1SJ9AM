@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaPrincipal", "Librer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoPersonas", "InfoPersonas\InfoPersonas.csproj", "{733BA89E-79EE-4770-BB11-776963D0873B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoPersonasGUI", "InfoPersonasGUI\InfoPersonasGUI.csproj", "{4F45CB4B-85F5-4723-8E22-B4F337045AB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{733BA89E-79EE-4770-BB11-776963D0873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{733BA89E-79EE-4770-BB11-776963D0873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{733BA89E-79EE-4770-BB11-776963D0873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F45CB4B-85F5-4723-8E22-B4F337045AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F45CB4B-85F5-4723-8E22-B4F337045AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F45CB4B-85F5-4723-8E22-B4F337045AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F45CB4B-85F5-4723-8E22-B4F337045AB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
